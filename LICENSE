@@ -23,12 +23,11 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 For more information, please refer to <https://unlicense.org>
 
-
 # LICENSE
 
 ## Proprietary Software License – All Rights Reserved
 
-Copyright (c) 2026 Alex Ribeiro de Faria. All rights reserved.
+Copyright (c) Alex Ribeiro de Faria. All rights reserved.
 
 ---
 

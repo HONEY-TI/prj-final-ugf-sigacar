@@ -1300,3 +1300,7 @@ Consultas via internet citadas:
 - Softpedia: `http://www.softpedia.com/progDownload/AJAX-Control-Toolkit-Download-82908.html`
 - Wikipedia .NET: `http://pt.wikipedia.org/wiki/.net`
 - Linha de Código: `http://www.linhadecodigo.com.br/`
+
+## ⚖️ Licença
+
+Consulte o arquivo de [`Licença`](LICENSE). Antes de publicar ou redistribuir, revise os termos aplicaveis e garanta que eles estejam consistentes com a intencao juridica do projeto.
